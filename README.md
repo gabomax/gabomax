@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabomax
 - 👀 I’m interested in game programmation
-- 🌱 I’m currently learning html/css/js/java/python/◊
+- 🌱 I’m currently learning html/css/js/java/python/C# 
 - 💞️ I’m looking to collaborate on unity
 - 📫 How to reach me halgand.gabin@gmail.com
 - 😄 Pronouns: he
