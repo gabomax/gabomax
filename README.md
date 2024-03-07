@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on unity
 - 📫 How to reach me halgand.gabin@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: proffesionnal chatgpt user
 
 <!---
 gabomax/gabomax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
